@@ -7,7 +7,6 @@ Manage your ssh hosts interactively with a BubbleTea-based CLI utility.
 ### Dependencies
 
 - Go `v1.16` or later
-- Bubble Tea `v0.15.0` or later
 
 ### Installation
 
